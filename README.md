@@ -2,3 +2,4 @@
 Day 1 — test commit
 # daily-notes-1
 Small repo for contribution tracking
+Fix typo: changed "teh" to "the"
